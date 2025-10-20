@@ -9,7 +9,8 @@ Sono un **software developer** appassionato di tecnologia, sempre alla ricerca d
 - **Problem solving**, affrontare sfide complesse e trovare soluzioni smart è ciò che mi motiva ogni giorno.  
 
 ## 💻 Qualche progetto interessante  
-Uno dei miei ultimi lavori è stato lo sviluppo di una **pagina web** per il download dei report di sostenibilità aziendali, nell'ambito di un **Project Work universitario**. L'obiettivo iniziale era consentire agli utenti di scaricare l'ultimo report disponibile, ma con piccole modifiche ho reso il sistema più flessibile, permettendo la selezione dell'anno del report.  
+Uno dei miei ultimi lavori è stato lo sviluppo di una pagina web interattiva per il download dei report di sostenibilità aziendali, realizzata interamente con Angular nell'ambito di un Project Work universitario. L'obiettivo iniziale era permettere agli utenti di scaricare l'ultimo report disponibile, ma ho introdotto alcune migliorie che hanno reso il sistema più flessibile, consentendo la selezione dell'anno del report desiderato.
+Attualmente sto lavorando allo sviluppo del backend di un'applicazione per la gestione delle ferie aziendali, focalizzandomi su aspetti come l'autenticazione, la gestione delle richieste e l'integrazione con sistemi esterni. Questo progetto mi sta permettendo di approfondire le mie competenze in sviluppo API RESTful, sicurezza e architetture scalabili.
 
 ## 🎯 Cosa cerco  
 Sono sempre curioso di scoprire **nuove tecnologie**, migliorare il mio codice e lavorare su progetti stimolanti. Se hai un'idea interessante o vuoi semplicemente fare networking, **sentiti libero di contattarmi!** 🚀 
